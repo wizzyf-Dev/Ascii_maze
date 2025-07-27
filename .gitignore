@@ -1,0 +1,5 @@
+#ignore all .lock files
+*.lock
+
+#target/
+target/
