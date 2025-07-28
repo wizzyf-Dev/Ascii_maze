@@ -1,3 +1,3 @@
 fn main() { 
-   let _player: &str = "$";
+   let _player: &str = "#";
 }
